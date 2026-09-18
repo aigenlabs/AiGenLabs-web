@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title desc">
+  <title id="title">AiGenLabs mark</title><desc id="desc">Gold AI chip mark with a custom A and i monogram.</desc>
+  <!-- AiGenLabs primary mark. Transparent background. -->
+  <g fill="none" stroke="#101936" stroke-width="11" stroke-linecap="round">
+    <path d="M83 27v39M125 27v39M167 27v39M209 27v39M83 254v39M125 254v39M167 254v39M209 254v39M27 83h39M27 160h39M254 83h39M254 160h39"/>
+  </g>
+  <g fill="#101936"><circle cx="83" cy="21" r="7"/><circle cx="125" cy="21" r="7"/><circle cx="167" cy="21" r="7"/><circle cx="209" cy="21" r="7"/><circle cx="83" cy="299" r="7"/><circle cx="125" cy="299" r="7"/><circle cx="167" cy="299" r="7"/><circle cx="209" cy="299" r="7"/><circle cx="21" cy="83" r="7"/><circle cx="21" cy="160" r="7"/><circle cx="299" cy="83" r="7"/><circle cx="299" cy="160" r="7"/></g>
+  <rect x="47" y="47" width="226" height="226" rx="39" fill="#d4a63a" stroke="#101936" stroke-width="8"/>
+  <rect x="69" y="69" width="182" height="182" rx="25" fill="none" stroke="#101936" stroke-opacity=".28" stroke-width="2"/>
+  <!-- Custom open-four A and independent i, geometrically centered as a pair. -->
+  <path d="M102 208 150 136q7-10 18-10h4v61" fill="none" stroke="#101936" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M103 209h57" fill="none" stroke="#101936" stroke-width="18" stroke-linecap="round"/>
+  <rect x="205" y="147" width="20" height="62" rx="4" fill="#101936"/><circle cx="215" cy="124" r="10" fill="#ba3131"/>
+</svg>
